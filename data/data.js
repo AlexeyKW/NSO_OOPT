@@ -1,4 +1,4 @@
-var json__1 = {
+var json_1 = {
 "type": "FeatureCollection",
 "name": "_1",
 "features": [
